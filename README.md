@@ -8,7 +8,9 @@
  * golang
  * machine learning
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/6279298/160854145-768df47a-f112-42c4-8e6c-9b53510623f7.svg" height="10" /></a>
  * I love cooking
  * jogging, swimming
  * going travel
+
+
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/6279298/160854145-768df47a-f112-42c4-8e6c-9b53510623f7.svg" height="10" /></a> [my jianshu blog](https://www.jianshu.com/u/aa8ec49eced0)
