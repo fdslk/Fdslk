@@ -1,4 +1,5 @@
 ### Hi there 👋
+![111741431908_ pic](https://github.com/user-attachments/assets/d3eead90-c529-44ab-983e-02e51ab0c313)
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://user-images.githubusercontent.com/6279298/160853212-6a4f9a8b-3b9e-4be8-af85-3a93da23c8e2.svg" height="10" /></a> I am a backend dev, and have experience on
  * dotnet core
